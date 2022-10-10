@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on Tesla
 - 📫 How to reach me 'just be online'
+=======
+- 👀 I’m interested in bot
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on Tesla
+- 📫 How to reach me 'Just be online
 
 <!---
 is-bot/is-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
