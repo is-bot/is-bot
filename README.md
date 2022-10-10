@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @is-bot
+- 👀 I’m interested in Bot
+- 🌱 I’m currently learning Everything
+- 💞️ I’m looking to collaborate on Tesla
+- 📫 How to reach me 'just be online'
+=======
 - 👀 I’m interested in bot
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Tesla
